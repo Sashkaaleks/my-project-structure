@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-21 16:52">
+<shop>
+<name>Пиццерия Луна</name>
+<company>Пиццерия Луна</company>
+<url>https://luna.com.ru</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories>
+<category id="1">Акция</category>
+<category id="2">Пицца 33 см</category>
+<category id="3">Закуски</category>
+<category id="4">Бургеры</category>
+<category id="5">Холодные напитки</category>
+<category id="6">Хот-доги</category>
+<category id="7">Соусы</category>
+</categories>
+<offers>
+<offer id="luna_db6f85d0137d" available="true">
+<url>https://www.luna.com.ru/bif-kombo-lajm-kola</url>
+<price>549.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/bifkolalajm-1200x1200.webp</picture>
+<name>Биф Фри Комбо</name>
+<description><![CDATA[Сочное и сытное комбо для хорошего аппетита: фирменный Биф бургер с говяжьей котлетой, сыром и свежими овощами, порция золотистого картофеля фри с хрустящей корочкой и освежающая Лайм Кола 0,5 л с двумя кусочками льда и свежим лаймом 8 г.
+
+Состав: Биф бургер, картофель фри, Лайм Кола 0,5 л, лёд 2 кусочка, лайм.
+
+КБЖУ: 1144,4 ккал · Белки 43,36 г · Жиры 47,52 г · Углеводы 132,02 г
+
+Заказ на сайте: https://www.luna.com.ru/bif-kombo-lajm-kola]]></description>
+<vendorCode>luna_db6f85d0137d</vendorCode>
+</offer>
+<offer id="luna_aeaf03b04dc8" available="true">
+<url>https://www.luna.com.ru/luna-dog-kombo</url>
+<price>399.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/akciya-luna-dog-1200x1200.webp</picture>
+<name>Луна Дог Комбо</name>
+<description><![CDATA[Сытное комбо с сочным Луна Догом, порцией золотистого хрустящего картофеля фри и освежающей Лайм Колой 0,5 л со льдом и свежим лаймом.
+
+Состав: Луна Дог, картофель фри, Лайм Кола 0,5 л, лёд 2 кубика, лайм.
+
+КБЖУ на всё комбо: Белки: 19,96 г
+Жиры: 38,02 г
+Углеводы: 125,02 г
+Энергетическая ценность: 930,4 ккал
+
+Заказ на сайте: https://www.luna.com.ru/luna-dog-kombo]]></description>
+<vendorCode>luna_aeaf03b04dc8</vendorCode>
+</offer>
+<offer id="luna_b31339dac8ea" available="true">
+<url>https://www.luna.com.ru/premium-kombo-lajm-kola</url>
+<price>449.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/strips-kombo-1200x1200.webp</picture>
+<name>Стрипс Комбо</name>
+<description><![CDATA[Сочное и хрустящее комбо: порция золотистых куриных стрипсов, хрустящий картофель фри и освежающая Лайм Кола 0,5 л со льдом и свежим лаймом. Отличный вариант для сытного перекуса.
+
+Состав: Куриные стрипсы, картофель фри, Лайм Кола 0,5 л, лёд 2 кубика, лайм.
+
+КБЖУ на всё комбо: 716,4 ккал · Белки 27,96 г · Жиры 25,62 г · Углеводы 89,32 г
+
+Заказ на сайте: https://www.luna.com.ru/premium-kombo-lajm-kola]]></description>
+<vendorCode>luna_b31339dac8ea</vendorCode>
+</offer>
+<offer id="luna_98dc2a48ba1a" available="true">
+<url>https://www.luna.com.ru/gavajskaya-33sm</url>
+<price>699.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/gavajskaya-1200x1200.webp</picture>
+<name>Гавайская 33см</name>
+<description><![CDATA[Сочная Гавайская 33 см с нежным куриным филе, расплавленной моцареллой и сладким ананасом на томатной основе. Мягкий сливочный вкус сыра, сочная курица и лёгкая фруктовая сладость ананаса хорошо дополняют друг друга.
+
+Состав: Тесто для пиццы, томатный соус, сыр моцарелла, куриное филе, ананас.
+
+Вес / объём: 550–600 г
+
+КБЖУ на порцию: Белки: 86,8 г
+Жиры: 38,8 г
+Углеводы: 153,4 г
+Энергетическая ценность: 1321 ккал
+
+Варианты и дополнения на сайте:
+Нарезать пиццу на (обязательно)
+6 кусочков
+8 кусочков
+Добавки к пицце
+Пепперони 60 г120 ₽
+Ветчина 60 г120 ₽
+Бекон 60 г120 ₽
+Сыр моцарелла 60 г120 ₽
+Куриная грудка 60 г120 ₽
+Фарш домашний 60 г120 ₽
+Копчёные колбаски 60 г120 ₽
+Халапеньо 50 г60 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маслины 50 г60 ₽
+Шампиньоны 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/gavajskaya-33sm]]></description>
+<vendorCode>luna_98dc2a48ba1a</vendorCode>
+</offer>
+<offer id="luna_405d0ada2381" available="true">
+<url>https://www.luna.com.ru/margarita-33-sm</url>
+<price>499.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/pizza_001_margarita-1200x1200.webp</picture>
+<name>Маргарита 33 см</name>
+<description><![CDATA[Классическая пицца с нежной моцареллой, насыщенным томатным соусом и ароматным орегано на тонкой основе.
+
+Состав: тесто для пиццы, томатный соус, сыр моцарелла, орегано.
+
+Вес / объём: 450–500 г
+
+КБЖУ на порцию: Белки: 49,3 г
+Жиры: 49,0 г
+Углеводы: 164,5 г
+Энергетическая ценность: 1305 ккал
+
+Варианты и дополнения на сайте:
+Нарезать пиццу на (обязательно)
+6 кусочков
+8 кусочков
+Добавки к пицце
+Пепперони 60 г120 ₽
+Ветчина 60 г120 ₽
+Бекон 60 г120 ₽
+Сыр моцарелла 60 г120 ₽
+Куриная грудка 60 г120 ₽
+Фарш домашний 60 г120 ₽
+Копчёные колбаски 60 г120 ₽
+Халапеньо 50 г60 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маслины 50 г60 ₽
+Шампиньоны 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/margarita-33-sm]]></description>
+<vendorCode>luna_405d0ada2381</vendorCode>
+</offer>
+<offer id="luna_84d157dba2dd" available="true">
+<url>https://www.luna.com.ru/pati-33-sm</url>
+<price>1099.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/pati-1200x1200.webp</picture>
+<name>Пати 33 см</name>
+<description><![CDATA[Большая и максимально сытная мясная пицца для компании. Пепперони, ветчина, сочный мясной фарш и куриная грудка дополнены маслинами. Всё это под щедрым слоем расплавленной моцареллы, с томатным соусом и ароматным орегано.
+
+Состав: тесто, томатный соус, моцарелла, пепперони, ветчина, мясной фарш, куриная грудка, маслины, орегано.
+
+Вес / объём: 1000–1050 г
+
+КБЖУ на порцию: Белки: ~123,5 г
+Жиры: ~101 г
+Углеводы: ~227 г
+Энергетическая ценность: ~2330 ккал
+
+Варианты и дополнения на сайте:
+Нарезать пиццу на (обязательно)
+6 кусочков
+8 кусочков
+
+Заказ на сайте: https://www.luna.com.ru/pati-33-sm]]></description>
+<vendorCode>luna_84d157dba2dd</vendorCode>
+</offer>
+<offer id="luna_cd3c3bcf7a9e" available="true">
+<url>https://www.luna.com.ru/pepperoni-po-bavarski-33-sm</url>
+<price>699.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/peperoni-po-bavarski-1200x1200.webp</picture>
+<name>Пепперони по-баварски 33 см</name>
+<description><![CDATA[Пепперони по-баварски сочетает пикантную пепперони, тягучую моцареллу, сочные томаты и маринованные огурчики. Яркий мясной вкус, приятная кислинка и ароматная томатная основа.
+
+Состав: тесто, томатный соус, моцарелла, пепперони, свежие томаты, маринованные огурцы, орегано.
+
+Вес / объём: 600–650 г
+
+КБЖУ на порцию: Белки: 61,2 г
+Жиры: 77,0 г
+Углеводы: 166,4 г
+Энергетическая ценность: 1613 ккал
+
+Варианты и дополнения на сайте:
+Нарезать пиццу на (обязательно)
+6 кусочков
+8 кусочков
+Добавки к пицце
+Ветчина 60 г120 ₽
+Бекон 60 г120 ₽
+Сыр моцарелла 60 г120 ₽
+Куриная грудка 60 г120 ₽
+Куриная грудка 60 г120 ₽
+Копчёные колбаски 60 г120 ₽
+Халапеньо 50 г60 ₽
+Помидор 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/pepperoni-po-bavarski-33-sm]]></description>
+<vendorCode>luna_cd3c3bcf7a9e</vendorCode>
+</offer>
+<offer id="luna_bc11d2a7366d" available="true">
+<url>https://www.luna.com.ru/pepperoni-33-sm</url>
+<price>569.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/pizza_002_pepperoni-1200x1200.webp</picture>
+<name>Пепперони 33 см</name>
+<description><![CDATA[Классическая Пепперони с пикантными ломтиками колбасы, тягучей моцареллой, томатным соусом и ароматным орегано.
+
+Состав: тесто, томатный соус, моцарелла, пепперони, орегано.
+
+Вес / объём: 500–550 г
+
+КБЖУ на порцию: Белки: 60,4 г
+Жиры: 76,7 г
+Углеводы: 163,3 г
+Энергетическая ценность: 1598 ккал
+
+Варианты и дополнения на сайте:
+Нарезать пиццу на (обязательно)
+6 кусочков
+8 кусочков
+Добавки к пицце
+Пепперони 60 г120 ₽
+Ветчина 60 г120 ₽
+Бекон 60 г120 ₽
+Сыр моцарелла 60 г120 ₽
+Куриная грудка 60 г120 ₽
+Фарш домашний 60 г120 ₽
+Копчёные колбаски 60 г120 ₽
+Халапеньо 50 г60 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маслины 50 г60 ₽
+Шампиньоны 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/pepperoni-33-sm]]></description>
+<vendorCode>luna_bc11d2a7366d</vendorCode>
+</offer>
+<offer id="luna_2d181a5fda7e" available="true">
+<url>https://www.luna.com.ru/pepperoni-fresh-33</url>
+<price>599.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/pizza_003_pepperoni_fresh-1200x1200.webp</picture>
+<name>Пепперони Фреш 33 см</name>
+<description><![CDATA[Пепперони Фреш сочетает пикантную пепперони, тягучую моцареллу и сочные свежие томаты на ароматной томатной основе.
+
+Состав: тесто, томатный соус, моцарелла, пепперони, свежие томаты, орегано.
+
+Вес / объём: 550–600 г
+
+КБЖУ на порцию: Белки: 60,9 г
+Жиры: 76,8 г
+Углеводы: 165,2 г
+Энергетическая ценность: 1607 ккал
+
+Варианты и дополнения на сайте:
+Нарезать пиццу на (обязательно)
+6 кусочков
+8 кусочков
+Добавки к пицце
+Пепперони 60 г120 ₽
+Ветчина 60 г120 ₽
+Бекон 60 г120 ₽
+Сыр моцарелла 60 г120 ₽
+Куриная грудка 60 г120 ₽
+Фарш домашний 60 г120 ₽
+Копчёные колбаски 60 г120 ₽
+Халапеньо 50 г60 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маслины 50 г60 ₽
+Шампиньоны 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/pepperoni-fresh-33]]></description>
+<vendorCode>luna_2d181a5fda7e</vendorCode>
+</offer>
+<offer id="luna_fd234ab015da" available="true">
+<url>https://www.luna.com.ru/chicken-teriyaki-33</url>
+<price>599.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/pizza_004_chicken_teriyaki-1200x1200.webp</picture>
+<name>Курица терияки 33 см</name>
+<description><![CDATA[Пицца с нежным куриным филе, тягучей моцареллой, ароматным соусом терияки, репчатым луком и кунжутом.
+
+Состав: тесто, соус терияки, моцарелла, куриное филе, репчатый лук, кунжут.
+
+Вес / объём: 600–650 г
+
+КБЖУ на порцию: Белки: 79,0 г
+Жиры: 52,8 г
+Углеводы: 168,2 г
+Энергетическая ценность: 1487 ккал
+
+Варианты и дополнения на сайте:
+Нарезать пиццу на (обязательно)
+6 кусочков
+8 кусочков
+Добавки к пицце
+Пепперони 60 г120 ₽
+Ветчина 60 г120 ₽
+Бекон 60 г120 ₽
+Сыр моцарелла 60 г120 ₽
+Куриная грудка 60 г120 ₽
+Фарш домашний 60 г120 ₽
+Копчёные колбаски 60 г120 ₽
+Халапеньо 50 г60 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маслины 50 г60 ₽
+Шампиньоны 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/chicken-teriyaki-33]]></description>
+<vendorCode>luna_fd234ab015da</vendorCode>
+</offer>
+<offer id="luna_f4126d7867c3" available="true">
+<url>https://www.luna.com.ru/myasnaya-33-sm</url>
+<price>899.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/pizza_005_meat-1200x1200.webp</picture>
+<name>Мясная мужская 33 см</name>
+<description><![CDATA[Самая сытная мясная пицца меню с пепперони, ветчиной, беконом и куриным филе под щедрым слоем моцареллы и томатного соуса.
+
+Состав: тесто, томатный соус, моцарелла, пепперони, ветчина, бекон, куриное филе, орегано.
+
+Вес / объём: 900–950 г
+
+КБЖУ на порцию: Белки: 104,5 г
+Жиры: 93,5 г
+Углеводы: 223,6 г
+Энергетическая ценность: 2175 ккал
+
+Варианты и дополнения на сайте:
+Нарезать пиццу на (обязательно)
+6 кусочков
+8 кусочков
+Добавки к пицце
+Пепперони 60 г120 ₽
+Ветчина 60 г120 ₽
+Бекон 60 г120 ₽
+Сыр моцарелла 60 г120 ₽
+Куриная грудка 60 г120 ₽
+Фарш домашний 60 г120 ₽
+Копчёные колбаски 60 г120 ₽
+Халапеньо 50 г60 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маслины 50 г60 ₽
+Шампиньоны 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/myasnaya-33-sm]]></description>
+<vendorCode>luna_f4126d7867c3</vendorCode>
+</offer>
+<offer id="luna_1b9efedb8bff" available="true">
+<url>https://www.luna.com.ru/kurica-bbq-33-sm</url>
+<price>599.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/pizza_006_chicken_bbq-1200x1200.webp</picture>
+<name>BBQ 33 см</name>
+<description><![CDATA[Сытная BBQ-пицца с куриным филе, копчёным беконом, тягучей моцареллой, репчатым луком и насыщенным соусом BBQ.
+
+Состав: тесто, соус BBQ, моцарелла, куриное филе, бекон, репчатый лук.
+
+Вес / объём: 600–650 г
+
+КБЖУ на порцию: Белки: 82,6 г
+Жиры: 65,5 г
+Углеводы: 181,7 г
+Энергетическая ценность: 1671 ккал
+
+Варианты и дополнения на сайте:
+Нарезать пиццу на (обязательно)
+6 кусочков
+8 кусочков
+Добавки к пицце
+Пепперони 60 г120 ₽
+Ветчина 60 г120 ₽
+Бекон 60 г120 ₽
+Сыр моцарелла 60 г120 ₽
+Куриная грудка 60 г120 ₽
+Фарш домашний 60 г120 ₽
+Копчёные колбаски 60 г120 ₽
+Халапеньо 50 г60 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маслины 50 г60 ₽
+Шампиньоны 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/kurica-bbq-33-sm]]></description>
+<vendorCode>luna_1b9efedb8bff</vendorCode>
+</offer>
+<offer id="luna_bb9ab561447a" available="true">
+<url>https://www.luna.com.ru/vetchina-i-griby-33-sm</url>
+<price>599.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/pizza_007_ham_mushrooms-1200x1200.webp</picture>
+<name>Ветчина и грибы 33 см</name>
+<description><![CDATA[Пицца с нежной ветчиной, шампиньонами, тягучей моцареллой и томатным соусом с ароматом орегано.
+
+Состав: тесто, томатный соус, моцарелла, ветчина, шампиньоны, орегано.
+
+Вес / объём: 600–650 г
+
+КБЖУ на порцию: Белки: 58,7 г
+Жиры: 53,5 г
+Углеводы: 166,0 г
+Энергетическая ценность: 1389 ккал
+
+Варианты и дополнения на сайте:
+Нарезать пиццу на (обязательно)
+6 кусочков
+8 кусочков
+Добавки к пицце
+Пепперони 60 г120 ₽
+Ветчина 60 г120 ₽
+Бекон 60 г120 ₽
+Сыр моцарелла 60 г120 ₽
+Куриная грудка 60 г120 ₽
+Фарш домашний 60 г120 ₽
+Копчёные колбаски 60 г120 ₽
+Халапеньо 50 г60 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маслины 50 г60 ₽
+Шампиньоны 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/vetchina-i-griby-33-sm]]></description>
+<vendorCode>luna_bb9ab561447a</vendorCode>
+</offer>
+<offer id="luna_bfe9d4bcd2a7" available="true">
+<url>https://www.luna.com.ru/squid-panko</url>
+<price>250.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/squid-panko-1200x1200.webp</picture>
+<name>Кольца кальмара в кляре</name>
+<description><![CDATA[Нежные кольца кальмара в хрустящем кляре с золотистой корочкой. Внутри кальмар остаётся мягким и сочным, а снаружи получается аппетитный хруст. Отличный вариант горячей закуски к соусу, прохладному напитку или как дополнение к основному заказу.
+
+КБЖУ на 100 г: Калории: 152 ккал · Белки: 13 г · Жиры: 1 г · Углеводы: 24 г
+
+Заказ на сайте: https://www.luna.com.ru/squid-panko]]></description>
+<vendorCode>luna_bfe9d4bcd2a7</vendorCode>
+</offer>
+<offer id="luna_4ea6ee3f14c3" available="true">
+<url>https://www.luna.com.ru/shrimp-panko</url>
+<price>250.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/shrimp-panko-1200x1200.webp</picture>
+<name>Креветки в панировке панко</name>
+<description><![CDATA[Нежные креветки в хрустящей панировке панко с золотистой корочкой. Сочная текстура внутри и выраженный хруст снаружи. Отлично подходят как горячая закуска, особенно с соусом или прохладным напитком.
+
+КБЖУ на 100 г: Калории: 140 ккал · Белки: 13 г · Жиры: 1 г · Углеводы: 21 г
+
+Варианты и дополнения на сайте:
+Количество креветок (обязательно)
+3 шт
+6 шт
+(250 ₽)
+
+Заказ на сайте: https://www.luna.com.ru/shrimp-panko]]></description>
+<vendorCode>luna_4ea6ee3f14c3</vendorCode>
+</offer>
+<offer id="luna_bcb511dd9477" available="true">
+<url>https://www.luna.com.ru/wings-breaded</url>
+<price>329.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/wings-breaded-1200x1200.webp</picture>
+<name>Куриные крылья в панировке</name>
+<description><![CDATA[Сочные куриные крылья в хрустящей золотистой панировке. Внутри нежное мясо, снаружи аппетитная хрустящая корочка. Отлично подходят как самостоятельная горячая закуска, к картофелю, соусу или прохладному напитку.
+
+Вес / объём: 200 г
+
+КБЖУ на порцию 200 г: Калории: 494 ккал · Белки: 47,8 г · Жиры: 33,4 г · Углеводы: 0 г
+
+Заказ на сайте: https://www.luna.com.ru/wings-breaded]]></description>
+<vendorCode>luna_bcb511dd9477</vendorCode>
+</offer>
+<offer id="luna_faaaf281fa38" available="true">
+<url>https://www.luna.com.ru/lukovye-kolca</url>
+<price>179.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/lukovie-kolca-1200x1200.webp</picture>
+<name>Луковые кольца 10 шт</name>
+<description><![CDATA[Хрустящие луковые кольца в аппетитной золотистой панировке. Снаружи яркий хруст, внутри нежный сладковатый лук. Отличная горячая закуска к бургерам, картофелю и любимым соусам. Подаём горячими, чтобы панировка оставалась максимально хрустящей.
+Порция: 10 шт.
+
+КБЖУ на порцию: Белки: 6,9 г
+Жиры: 17,4 г
+Углеводы: 45,8 г
+Энергетическая ценность: 368 ккал
+
+Заказ на сайте: https://www.luna.com.ru/lukovye-kolca]]></description>
+<vendorCode>luna_faaaf281fa38</vendorCode>
+</offer>
+<offer id="luna_d2c57e98d04b" available="true">
+<url>https://www.luna.com.ru/riflenyj-fri</url>
+<price>149.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/riflenka-1200x1200.webp</picture>
+<name>Рифлёный фри</name>
+<description><![CDATA[Хрустящий рифлёный картофель с аппетитной золотистой корочкой и мягкой картофельной серединкой. Благодаря волнистой форме каждый кусочек получается особенно хрустящим и отлично удерживает соус. Подаём горячим прямо из фритюра. Отлично подходит как самостоятельная закуска или дополнение к бургеру.
+
+КБЖУ на порцию: Белки: 3,1 г
+Жиры: 5,9 г
+Углеводы: 30 г
+Энергетическая ценность: 185 ккал
+
+Заказ на сайте: https://www.luna.com.ru/riflenyj-fri]]></description>
+<vendorCode>luna_d2c57e98d04b</vendorCode>
+</offer>
+<offer id="luna_558951b455e1" available="true">
+<url>https://www.luna.com.ru/stripsy-nezhnye</url>
+<price>200.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/snack_001_strips_tender-1200x1200.webp</picture>
+<name>Стрипсы</name>
+<description><![CDATA[Сочные куриные стрипсы в хрустящей золотистой панировке. Горячая порция из трёх кусочков.
+
+Состав: куриное филе, панировочная смесь, вода для кляра; растительное масло используется как технологическая среда для фритюра.
+
+Вес / объём: 120 г
+
+КБЖУ на порцию: Белки: 25,8 г
+Жиры: 16,9 г
+Углеводы: 7,2 г
+Энергетическая ценность: 292 ккал
+
+Заказ на сайте: https://www.luna.com.ru/stripsy-nezhnye]]></description>
+<vendorCode>luna_558951b455e1</vendorCode>
+</offer>
+<offer id="luna_ac0f845ea56f" available="true">
+<url>https://www.luna.com.ru/syrnye-palochki-5-sht</url>
+<price>199.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/sirnie-palochki-1200x1200.webp</picture>
+<name>Сырные палочки 5 шт</name>
+<description><![CDATA[Хрустящие сырные палочки с горячей тягучей моцареллой внутри и румяной золотистой панировкой снаружи. Обжариваем до хруста и подаём горячими, чтобы сыр оставался мягким и аппетитно тянулся. Отличная закуска сама по себе и особенно хороша с любимым соусом.
+
+КБЖУ на порцию: Белки: 18,7 г
+Жиры: 9,9 г
+Углеводы: 28,6 г
+Энергетическая ценность: 275 ккал
+
+Заказ на сайте: https://www.luna.com.ru/syrnye-palochki-5-sht]]></description>
+<vendorCode>luna_ac0f845ea56f</vendorCode>
+</offer>
+<offer id="luna_c0684ce6cdc1" available="true">
+<url>https://www.luna.com.ru/kartofel-fri</url>
+<price>129.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/snack_003_fries-1200x1200.webp</picture>
+<name>Картофель Фри</name>
+<description><![CDATA[Золотистый картофель фри с хрустящей корочкой снаружи и мягкой картофельной серединой.
+
+Состав: картофель фри, растительное масло.
+
+Вес / объём: 120 г
+
+КБЖУ на порцию: Белки: 3,0 г
+Жиры: 16,9 г
+Углеводы: 27,8 г
+Энергетическая ценность: 270 ккал
+
+Заказ на сайте: https://www.luna.com.ru/kartofel-fri]]></description>
+<vendorCode>luna_c0684ce6cdc1</vendorCode>
+</offer>
+<offer id="luna_76930d74485c" available="true">
+<url>https://www.luna.com.ru/blek-burger-svinoj-shtorm</url>
+<price>430.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/blek-shtorm-1200x1200.webp</picture>
+<name>Блэк Бургер Свиной шторм</name>
+<description><![CDATA[Сочный бургер на чёрной булочке с кунжутом, томлёной рваной свининой, сыром и свежими овощами. Мягкое мясо дополняют маринованный огурец, красный лук, помидор и хрустящая пекинская капуста. Соус бургер и кетчуп делают вкус насыщенным и сочным.
+
+Состав: чёрная булочка с кунжутом, томлёная рваная свинина, сыр, пекинская капуста, помидор, маринованный огурец, красный лук, соус бургер, кетчуп.
+
+Вес / объём: 300–330 г
+
+КБЖУ: 744 ккал · Б 46,1 г · Ж 38,2 г · У 51,1 г
+
+Заказ на сайте: https://www.luna.com.ru/blek-burger-svinoj-shtorm]]></description>
+<vendorCode>luna_76930d74485c</vendorCode>
+</offer>
+<offer id="luna_91a28b99788f" available="true">
+<url>https://www.luna.com.ru/burger-svinoj-shtorm</url>
+<price>399.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/shtorm-1200x1200.webp</picture>
+<name>Бургер Свиной шторм</name>
+<description><![CDATA[Сочный бургер с томлёной рваной свининой, сыром и свежими овощами. Мягкое мясо дополняют маринованный огурец, красный лук, помидор и хрустящая пекинская капуста. Соус бургер и кетчуп делают вкус насыщенным и сочным.
+
+Состав: булочка с кунжутом, томлёная рваная свинина, сыр, пекинская капуста, помидор, маринованный огурец, красный лук, соус бургер, кетчуп.
+
+Вес / объём: 300–330 г
+
+КБЖУ: 744 ккал · Б 46,1 г · Ж 38,2 г · У 51,1 г
+
+Заказ на сайте: https://www.luna.com.ru/burger-svinoj-shtorm]]></description>
+<vendorCode>luna_91a28b99788f</vendorCode>
+</offer>
+<offer id="luna_d13101dc2d69" available="true">
+<url>https://www.luna.com.ru/stejk-buntar</url>
+<price>349.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/Stejk-Buntar-1200x1200.webp</picture>
+<name>Стейк Бунтарь</name>
+<description><![CDATA[Сочный свиной стейк, сыр, свежий помидор, красный лук, огурец и соус Цезарь между двумя поджаренными тостами.
+
+КБЖУ на порцию: 505 ккал
+Белки 28,2 г
+Жиры 28,8 г
+Углеводы 33,8 г
+
+Заказ на сайте: https://www.luna.com.ru/stejk-buntar]]></description>
+<vendorCode>luna_d13101dc2d69</vendorCode>
+</offer>
+<offer id="luna_d34a12a16890" available="true">
+<url>https://www.luna.com.ru/beef-burger</url>
+<price>299.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/product_103_beef_burger-1200x1200.webp</picture>
+<name>Биф-бургер</name>
+<description><![CDATA[Сочный Биф-бургер с говяжьей котлетой, сыром Чеддер, свежим томатом, хрустящей пекинской капустой, маринованным огурцом, красным луком и соусами в мягкой булочке.
+
+Состав: булочка, говяжья котлета, сыр Чеддер, свежий томат, пекинская капуста, маринованный огурец, красный лук, соусы.
+
+Вес / объём: 300–350 г
+
+КБЖУ на порцию: Белки: 40,3 г
+Жиры: 33,6 г
+Углеводы: 51,7 г
+Энергетическая ценность: 676 ккал
+
+Варианты и дополнения на сайте:
+Добавки к бургеру
+Дополнительная говяжья котлета150 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/beef-burger]]></description>
+<vendorCode>luna_d34a12a16890</vendorCode>
+</offer>
+<offer id="luna_992deb8bd70e" available="true">
+<url>https://www.luna.com.ru/double-black-beef-burger</url>
+<price>480.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/product_106_double_black_beef_clean-1200x1200.webp</picture>
+<name>Двойной Блэк Биф бургер</name>
+<description><![CDATA[Большой бургер на чёрной булочке с двумя сочными говяжьими котлетами и сыром Чеддер между ними, свежими овощами и соусами.
+
+Состав: чёрная булочка, две говяжьи котлеты, сыр Чеддер и утверждённая начинка Биф-бургера.
+
+Вес / объём: 410–460 г
+
+КБЖУ на порцию: 872 ккал · Б 54 г · Ж 47,5 г · У 56,2 г
+
+Варианты и дополнения на сайте:
+Добавки к бургеру
+Дополнительная говяжья котлета150 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/double-black-beef-burger]]></description>
+<vendorCode>luna_992deb8bd70e</vendorCode>
+</offer>
+<offer id="luna_95d23384e6c8" available="true">
+<url>https://www.luna.com.ru/chiken-burger</url>
+<price>249.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/product_110_chicken_burger-1200x1200.webp</picture>
+<name>Чикен-бургер</name>
+<description><![CDATA[Нежный Чикен-бургер с куриной котлетой, сыром Чеддер, свежим томатом, пекинской капустой, маринованным огурцом и соусами в мягкой булочке.
+
+Состав: булочка, куриная котлета, сыр Чеддер, свежий томат, пекинская капуста, маринованный огурец, соусы.
+
+Вес / объём: 300–350 г
+
+КБЖУ на порцию: Белки: 28,1 г
+Жиры: 34,9 г
+Углеводы: 62,9 г
+Энергетическая ценность: 677 ккал
+
+Варианты и дополнения на сайте:
+Добавки к бургеру
+Дополнительная куриная котлета100 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/chiken-burger]]></description>
+<vendorCode>luna_95d23384e6c8</vendorCode>
+</offer>
+<offer id="luna_a8829a42095f" available="true">
+<url>https://www.luna.com.ru/black-beef-burger</url>
+<price>330.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/product_111_black_beef-1200x1200.webp</picture>
+<name>Блэк Биф Бургер</name>
+<description><![CDATA[Биф-бургер на эффектной чёрной булочке с сочной говяжьей котлетой, сыром Чеддер, свежими овощами и соусами.
+
+Состав: чёрная булочка, говяжья котлета, сыр Чеддер и утверждённая начинка Биф-бургера.
+
+Вес / объём: 300–350 г
+
+КБЖУ на порцию: 703 ккал · Б 40,8 г · Ж 35,7 г · У 53,4 г
+
+Варианты и дополнения на сайте:
+Добавки к бургеру
+Дополнительная говяжья котлета150 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/black-beef-burger]]></description>
+<vendorCode>luna_a8829a42095f</vendorCode>
+</offer>
+<offer id="luna_5e397fae9b54" available="true">
+<url>https://www.luna.com.ru/black-chicken-burger</url>
+<price>280.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/product_112_black_chicken-1200x1200.webp</picture>
+<name>Блэк Чикен Бургер</name>
+<description><![CDATA[Чикен-бургер на чёрной булочке с сочной куриной котлетой, сыром Чеддер, свежими овощами и соусами.
+
+Состав: чёрная булочка, куриная котлета, сыр Чеддер и утверждённая начинка Чикен-бургера.
+
+Вес / объём: 300–350 г
+
+КБЖУ на порцию: 704 ккал · Б 28,6 г · Ж 37,0 г · У 64,6 г
+
+Варианты и дополнения на сайте:
+Добавки к бургеру
+Дополнительная куриная котлета100 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/black-chicken-burger]]></description>
+<vendorCode>luna_5e397fae9b54</vendorCode>
+</offer>
+<offer id="luna_06a15d3b52a9" available="true">
+<url>https://www.luna.com.ru/double-beef-burger</url>
+<price>449.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/product_113_double_beef-1200x1200.webp</picture>
+<name>Двойной Биф бургер</name>
+<description><![CDATA[Большой Биф-бургер с двумя сочными говяжьими котлетами и сыром Чеддер между ними, свежими овощами и соусами в мягкой булочке.
+
+Состав: булочка, две говяжьи котлеты, сыр Чеддер между котлетами и утверждённая начинка Биф-бургера.
+
+Вес / объём: 410–460 г
+
+КБЖУ на порцию: Белки: 67,1 г
+Жиры: 48,9 г
+Углеводы: 51,7 г
+Энергетическая ценность: 929 ккал
+
+Варианты и дополнения на сайте:
+Добавки к бургеру
+Дополнительная говяжья котлета150 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/double-beef-burger]]></description>
+<vendorCode>luna_06a15d3b52a9</vendorCode>
+</offer>
+<offer id="luna_de31180e6536" available="true">
+<url>https://www.luna.com.ru/double-black-chicken-burger</url>
+<price>380.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/product_114_double_black_chicken-1200x1200.webp</picture>
+<name>Двойной Блэк Чикен бургер</name>
+<description><![CDATA[Большой бургер на чёрной булочке с двумя сочными куриными котлетами и сыром Чеддер между ними, свежими овощами и соусами.
+
+Состав: чёрная булочка, две куриные котлеты, сыр Чеддер между котлетами и утверждённая начинка Чикен-бургера.
+
+Вес / объём: 400–450 г
+
+КБЖУ на порцию: 975 ккал · Б 50,9 г · Ж 50,4 г · У 80,0 г
+
+Варианты и дополнения на сайте:
+Добавки к бургеру
+Дополнительная куриная котлета100 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/double-black-chicken-burger]]></description>
+<vendorCode>luna_de31180e6536</vendorCode>
+</offer>
+<offer id="luna_191e71610dfc" available="true">
+<url>https://www.luna.com.ru/double-chicken-burger</url>
+<price>349.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/product_115_double_chicken-1200x1200.webp</picture>
+<name>Двойной Чикен бургер</name>
+<description><![CDATA[Большой Чикен-бургер с двумя сочными куриными котлетами и сыром Чеддер между ними, свежими овощами и соусами в мягкой булочке.
+
+Состав: булочка, две куриные котлеты, сыр Чеддер между котлетами и утверждённая начинка Чикен-бургера.
+
+Вес / объём: 400–450 г
+
+КБЖУ на порцию: 948 ккал · Б 50,4 г · Ж 48,3 г · У 78,3 г
+
+Варианты и дополнения на сайте:
+Добавки к бургеру
+Дополнительная куриная котлета100 ₽
+Помидор 50 г60 ₽
+Пекинская капуста 50 г60 ₽
+Маринованные огурцы 50 г60 ₽
+Лук 50 г60 ₽
+
+Заказ на сайте: https://www.luna.com.ru/double-chicken-burger]]></description>
+<vendorCode>luna_191e71610dfc</vendorCode>
+</offer>
+<offer id="luna_c047e65f6e03" available="true">
+<url>https://www.luna.com.ru/grushevyj-limonad-ajs</url>
+<price>110.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/limonad-1200x1200.webp</picture>
+<name>Грушевый лимонад Айс</name>
+<description><![CDATA[Освежающий газированный лимонад со вкусом спелой груши. Подаётся охлаждённым со льдом в прозрачном стакане с крышкой и трубочкой. Лёгкий фруктовый вкус хорошо подходит к пицце, бургерам и хот-догам.
+
+Состав: Грушевый газированный напиток, лёд.
+
+Вес / объём: 0,5 л
+
+КБЖУ на порцию: 100 ккал · Б 0 г · Ж 0 г · У 23,5 г
+
+Заказ на сайте: https://www.luna.com.ru/grushevyj-limonad-ajs]]></description>
+<vendorCode>luna_c047e65f6e03</vendorCode>
+</offer>
+<offer id="luna_b8f48d4366ac" available="true">
+<url>https://www.luna.com.ru/lajm-kola-0-5-l</url>
+<price>149.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/kola-lajm-1200x1200.webp</picture>
+<name>Лайм Кола 0,5 л</name>
+<description><![CDATA[Холодная газированная кола с насыщенным вкусом и свежей цитрусовой ноткой. Подаётся с двумя кусочками льда и свежим лаймом 8 г. Лайм добавляет лёгкую кислинку и делает напиток особенно освежающим.
+
+Состав: Кола 0,5 л, лёд 2 кусочка, свежий лайм.
+
+Вес / объём: 0,5 л
+
+КБЖУ на порцию: 227,40 ккал · Б 0,06 г · Ж 0,02 г · У 53,12 г
+
+Заказ на сайте: https://www.luna.com.ru/lajm-kola-0-5-l]]></description>
+<vendorCode>luna_b8f48d4366ac</vendorCode>
+</offer>
+<offer id="luna_8db228801287" available="true">
+<url>https://www.luna.com.ru/mors-oblepihovyj-400-ml</url>
+<price>180.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/ChatGPT-Image-16-avg.-2026-g.,-21_03_04-1200x1200.webp</picture>
+<name>Морс облепиховый 400 мл</name>
+<description><![CDATA[Морс облепиховый 400 мл. Освежающий напиток на основе облепихового сиропа и воды.
+
+Состав: облепиховый сироп, вода.
+
+Вес / объём: 400 мл.
+
+КБЖУ: 336 ккал, белки 0 г, жиры 0 г, углеводы 84 г.
+
+Заказ на сайте: https://www.luna.com.ru/mors-oblepihovyj-400-ml]]></description>
+<vendorCode>luna_8db228801287</vendorCode>
+</offer>
+<offer id="luna_31dc9b85e4f0" available="true">
+<url>https://www.luna.com.ru/limonad-tarhun-kivi-04-l</url>
+<price>220.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/drinks/gurmix/tarhun-kiwi-04l-1200x1200.webp</picture>
+<name>Тархун-киви</name>
+<description><![CDATA[Густой молочный коктейль с мороженым, бананом и ярким вкусом тархуна и киви. Мягкая сливочная основа сочетается со свежей фруктово-травяной ноткой.
+
+Состав: молоко, мороженое, банан, сироп Тархун-киви.
+
+Вес / объём: 0,5 л
+
+КБЖУ на порцию: Белки: 13,9 г
+Жиры: 21,0 г
+Углеводы: 82,0 г
+Энергетическая ценность: 564 ккал
+
+Заказ на сайте: https://www.luna.com.ru/limonad-tarhun-kivi-04-l]]></description>
+<vendorCode>luna_31dc9b85e4f0</vendorCode>
+</offer>
+<offer id="luna_444286815961" available="true">
+<url>https://www.luna.com.ru/limonad-limon-yuzu-buzina-04-l</url>
+<price>220.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/drinks/gurmix/limon-yuzu-buzina-04l-1200x1200.webp</picture>
+<name>Лимон-юдзу-бузина</name>
+<description><![CDATA[Молочный коктейль с мороженым и бананом, в котором сливочный вкус дополняют свежие цитрусовые ноты лимона и юдзу с ароматом бузины.
+
+Состав: молоко, мороженое, банан, сироп Лимон-юдзу-бузина.
+
+Вес / объём: 0,5 л
+
+КБЖУ на порцию: Белки: 13,9 г
+Жиры: 21,0 г
+Углеводы: 82,4 г
+Энергетическая ценность: 564 ккал
+
+Заказ на сайте: https://www.luna.com.ru/limonad-limon-yuzu-buzina-04-l]]></description>
+<vendorCode>luna_444286815961</vendorCode>
+</offer>
+<offer id="luna_283835cad11b" available="true">
+<url>https://www.luna.com.ru/mors-oblepihoviy-04-l</url>
+<price>90.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/drinks/gurmix/mors-oblepihoviy-04l-1200x1200.webp</picture>
+<name>Морс облепиховый</name>
+<description><![CDATA[Морс облепиховый. Напиток на основе облепихового сиропа и воды.
+
+Состав: облепиховый сироп, вода.
+
+Вес / объём: 200 мл и 400 мл
+
+КБЖУ на порцию: 200 мл: 168 ккал · Б 0 г · Ж 0 г · У 42 г
+400 мл: 336 ккал · Б 0 г · Ж 0 г · У 84 г
+
+Заказ на сайте: https://www.luna.com.ru/mors-oblepihoviy-04-l]]></description>
+<vendorCode>luna_283835cad11b</vendorCode>
+</offer>
+<offer id="luna_e1cdd7e5756f" available="true">
+<url>https://www.luna.com.ru/limonad-lesnye-yagody-04-l</url>
+<price>220.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/drinks/gurmix/lesnye-yagody-04l-1200x1200.webp</picture>
+<name>Лесные ягоды</name>
+<description><![CDATA[Нежный молочный коктейль с мороженым, бананом и насыщенным вкусом лесных ягод. Сливочный, ягодный и в меру сладкий.
+
+Состав: молоко, мороженое, банан, сироп Лесные ягоды.
+
+Вес / объём: 0,5 л
+
+КБЖУ на порцию: Белки: 13,8 г
+Жиры: 21,0 г
+Углеводы: 80,4 г
+Энергетическая ценность: 560 ккал
+
+Заказ на сайте: https://www.luna.com.ru/limonad-lesnye-yagody-04-l]]></description>
+<vendorCode>luna_e1cdd7e5756f</vendorCode>
+</offer>
+<offer id="luna_653f2ae03957" available="true">
+<url>https://www.luna.com.ru/hot-dog-klassicheskiy</url>
+<price>150.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/hotdog_001_classic-1200x1200.webp</picture>
+<name>Луна-дог</name>
+<description><![CDATA[Сытный хот-дог с сочной сосиской, маринованным огурцом, горчицей, кетчупом, майонезом и хрустящим жареным луком в мягкой булочке.
+
+Состав: булочка для хот-дога, сосиска, маринованный огурец, горчица, кетчуп, майонез, хрустящий жареный лук.
+
+Вес / объём: 220 г
+
+КБЖУ на порцию: Белки: 16,3 г
+Жиры: 42,0 г
+Углеводы: 39,1 г
+Энергетическая ценность: 603 ккал
+
+Заказ на сайте: https://www.luna.com.ru/hot-dog-klassicheskiy]]></description>
+<vendorCode>luna_653f2ae03957</vendorCode>
+</offer>
+<offer id="luna_a4e388f210e4" available="true">
+<url>https://www.luna.com.ru/luna-dog-premium</url>
+<price>260.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/product_109_luna_dog_premium-1200x1200.webp</picture>
+<name>Луна-дог Премиум</name>
+<description><![CDATA[Хот-дог Премиум с сочной говяжьей сосиской, кетчупом, майонезом и хрустящим жареным луком в мягкой булочке.
+
+Состав: булочка для хот-дога, говяжья сосиска, кетчуп, майонез, хрустящий жареный лук.
+
+Вес / объём: 220 г
+
+КБЖУ на порцию: Белки: 15,4 г
+Жиры: 33,8 г
+Углеводы: 40,3 г
+Энергетическая ценность: 530 ккал
+
+Заказ на сайте: https://www.luna.com.ru/luna-dog-premium]]></description>
+<vendorCode>luna_a4e388f210e4</vendorCode>
+</offer>
+<offer id="luna_b98aa44dec46" available="true">
+<url>https://www.luna.com.ru/luna-chicken-dog</url>
+<price>220.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/ChatGPT-Image-15-avg.-2026-g.,-14_55_47-1200x1200.webp</picture>
+<name>Луна Чикен-дог</name>
+<description><![CDATA[Сочный хот-дог с куриной сосиской, маринованным огурцом, соусами и хрустящим жареным луком в мягкой булочке. Нежный вариант классического Луна-дога.
+
+Состав: Булочка для хот-дога, куриная сосиска, маринованный огурец, горчица, кетчуп, майонез, хрустящий жареный лук.
+
+Вес / объём: 210 г
+
+КБЖУ на порцию: 506 ккал · Б 17,8 г · Ж 29,3 г · У 42,9 г
+
+Заказ на сайте: https://www.luna.com.ru/luna-chicken-dog]]></description>
+<vendorCode>luna_b98aa44dec46</vendorCode>
+</offer>
+<offer id="luna_3731fc73b27d" available="true">
+<url>https://www.luna.com.ru/sous-burger</url>
+<price>50.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/sauce_116_burger-1200x1200.webp</picture>
+<name>Соус бургер</name>
+<description><![CDATA[Густой сливочно-пряный соус для бургеров, картофеля и закусок.
+
+Состав: Соус Hi Burger EFKO FOOD.
+
+Вес / объём: 45 г
+
+КБЖУ на порцию: 131 ккал · Б 0,5 г · Ж 13,5 г · У 2,7 г
+
+Заказ на сайте: https://www.luna.com.ru/sous-burger]]></description>
+<vendorCode>luna_3731fc73b27d</vendorCode>
+</offer>
+<offer id="luna_d3eb9d710173" available="true">
+<url>https://www.luna.com.ru/chesnochnyj</url>
+<price>50.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/chesnochnij-1200x1200.webp</picture>
+<name>Соус Чесночный</name>
+<description><![CDATA[Нежный чесночный соус с насыщенным сливочным вкусом и ароматом чеснока. Отлично подходит к картофелю фри, стрипсам, бургерам и хот-догам.
+
+Вес / объём: 45 г
+
+КБЖУ на порцию: 131 ккал
+Белки 0,2 г
+Жиры 12,6 г
+Углеводы 4,5 г
+
+Заказ на сайте: https://www.luna.com.ru/chesnochnyj]]></description>
+<vendorCode>luna_d3eb9d710173</vendorCode>
+</offer>
+<offer id="luna_54347a637374" available="true">
+<url>https://www.luna.com.ru/sous-bbq</url>
+<price>50.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/sauce_117_bbq-1200x1200.webp</picture>
+<name>Соус BBQ</name>
+<description><![CDATA[Насыщенный соус BBQ со сладковато-копчёным вкусом.
+
+Состав: Соус BBQ GurMix.
+
+Вес / объём: 45 г
+
+КБЖУ на порцию: 59 ккал · Б 0,2 г · Ж 0,1 г · У 14,0 г
+
+Заказ на сайте: https://www.luna.com.ru/sous-bbq]]></description>
+<vendorCode>luna_54347a637374</vendorCode>
+</offer>
+<offer id="luna_4ebc226507fc" available="true">
+<url>https://www.luna.com.ru/ketchup</url>
+<price>50.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/sauce_118_ketchup_card-1200x1200.webp</picture>
+<name>Кетчуп</name>
+<description><![CDATA[Классический томатный кетчуп к картофелю, хот-догам и закускам.
+
+Состав: Кетчуп томатный EFKO FOOD Classic.
+
+Вес / объём: 43 г
+
+КБЖУ на порцию: 44 ккал · Б 0,6 г · Ж 0,0 г · У 10,3 г
+
+Заказ на сайте: https://www.luna.com.ru/ketchup]]></description>
+<vendorCode>luna_4ebc226507fc</vendorCode>
+</offer>
+<offer id="luna_3e4d8dec181b" available="true">
+<url>https://www.luna.com.ru/sladkiy-chili</url>
+<price>50.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/sauce_119_sweet_chili-1200x1200.webp</picture>
+<name>Соус чили сладкий</name>
+<description><![CDATA[Сладко-острый соус чили с ярким пряным вкусом.
+
+Вес / объём: 45 г
+
+КБЖУ на порцию: 77 ккал · Б 0,1 г · Ж 0,0 г · У 19,4 г
+
+Заказ на сайте: https://www.luna.com.ru/sladkiy-chili]]></description>
+<vendorCode>luna_3e4d8dec181b</vendorCode>
+</offer>
+<offer id="luna_bb09df1d7dbd" available="true">
+<url>https://www.luna.com.ru/gorchitsa</url>
+<price>50.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/sauce_120_mustard-1200x1200.webp</picture>
+<name>Горчица</name>
+<description><![CDATA[Пикантная горчица с характерным пряным вкусом.
+
+Состав: Горчица дижонская Bister.
+
+Вес / объём: 45 г
+
+КБЖУ на порцию: 71 ккал · Б 3,6 г · Ж 5,5 г · У 1,5 г
+
+Заказ на сайте: https://www.luna.com.ru/gorchitsa]]></description>
+<vendorCode>luna_bb09df1d7dbd</vendorCode>
+</offer>
+<offer id="luna_e9334e24fe93" available="true">
+<url>https://www.luna.com.ru/syrnyy-sous</url>
+<price>50.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/sauce_121_cheese-1200x1200.webp</picture>
+<name>Соус Сырный</name>
+<description><![CDATA[Нежный густой соус с насыщенным сливочно-сырным вкусом.
+
+Состав: Соус сырный EFKO FOOD.
+
+Вес / объём: 45 г
+
+КБЖУ на порцию: 151 ккал · Б 0,0 г · Ж 15,8 г · У 2,3 г
+
+Заказ на сайте: https://www.luna.com.ru/syrnyy-sous]]></description>
+<vendorCode>luna_e9334e24fe93</vendorCode>
+</offer>
+<offer id="luna_790ef25dcf69" available="true">
+<url>https://www.luna.com.ru/mayonez</url>
+<price>50.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/sauce_122_mayonnaise-1200x1200.webp</picture>
+<name>Майонез</name>
+<description><![CDATA[Классический сливочный майонез к горячим блюдам и закускам.
+
+Состав: Майонез EFKO FOOD.
+
+Вес / объём: 45 г
+
+КБЖУ на порцию: 230 ккал · Б 0,1 г · Ж 25,2 г · У 0,5 г
+
+Заказ на сайте: https://www.luna.com.ru/mayonez]]></description>
+<vendorCode>luna_790ef25dcf69</vendorCode>
+</offer>
+<offer id="luna_8c51746ec284" available="true">
+<url>https://www.luna.com.ru/teriyaki-sous</url>
+<price>50.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/sauce_123_teriyaki_card-1200x1200.webp</picture>
+<name>Соус Терияки</name>
+<description><![CDATA[Ароматный соус терияки со сладко-солёным вкусом.
+
+Состав: Соус терияки Tamaki.
+
+Вес / объём: 45 г
+
+КБЖУ на порцию: 81 ккал · Б 0,6 г · Ж 0,0 г · У 19,4 г
+
+Заказ на сайте: https://www.luna.com.ru/teriyaki-sous]]></description>
+<vendorCode>luna_8c51746ec284</vendorCode>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
