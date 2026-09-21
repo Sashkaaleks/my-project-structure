@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-21 21:16">
+<shop>
+<name>Пиццерия Луна</name>
+<company>Пиццерия Луна</company>
+<url>https://luna.com.ru</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories><category id="1">Холодные напитки</category></categories>
+<offers>
+<offer id="luna_8db228801287" available="true">
+<url>https://www.luna.com.ru/mors-oblepihovyj-400-ml</url>
+<price>180.00</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.luna.com.ru/image/cache/catalog/luna/real/ChatGPT-Image-16-avg.-2026-g.,-21_03_04-1200x1200.webp</picture>
+<name>Морс облепиховый 400 мл</name>
+<description><![CDATA[Морс облепиховый 400 мл. Освежающий напиток на основе облепихового сиропа и воды.
+
+Состав: облепиховый сироп, вода.
+
+Вес / объём: 400 мл.
+
+КБЖУ: 336 ккал, белки 0 г, жиры 0 г, углеводы 84 г.
+
+Заказ на сайте: https://www.luna.com.ru/mors-oblepihovyj-400-ml]]></description>
+<vendorCode>luna_8db228801287</vendorCode>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
